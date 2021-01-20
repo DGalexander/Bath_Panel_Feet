@@ -1,2 +1,2 @@
-# Bath_Panel_Feet
+# bath-panel-feet
 OpenSCAD Files for Bath Panel Feet
